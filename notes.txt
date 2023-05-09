@@ -1,0 +1,14 @@
+1. Interpolation
+2. Property Binding
+3. Class Binding
+4. Style Binding
+5. Template Reference Variables
+6. Two way data binding
+7. Structural Directives - directions to angular(if, ngSwitch, ngFor)
+
+8. Services
+**Component Interaction
+**Pipes
+9. Routing
+
+MEAN(Video Playes)
